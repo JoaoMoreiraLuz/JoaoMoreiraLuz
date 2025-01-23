@@ -14,6 +14,10 @@ No momento estudo na EBAC - Escola Britânica de Artes Criativas e Tecnologia, e
 
 ## 🌟 Meus projetos!
 
+### [Restaurante Efood 🍕](https://efood-react-two.vercel.app)
+
+### [Lista de Contatos 📃](https://react-contatos-omega.vercel.app)
+
 ### [Projeto DM 🐲](https://projeto-dm.vercel.app)
 
 ### [Clone Disney+ ☄️](https://clone-disneyplus-otc6.vercel.app)
